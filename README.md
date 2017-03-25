@@ -8,6 +8,7 @@ To run a Portainer instance:
 ```
 docker-compose up -d
 ```
+After that you can visit the Portainer UI in your Browser, at http://localhost:8080.
 
 To shutdown the running instance:
 
